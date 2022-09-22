@@ -10,6 +10,10 @@ yarn add -D husky @commitlint/cli @commitlint/config-conventional commitlint-con
 3. [commit 规范+commitlint+CHANGELOG 自动生成一条龙服务 - 掘金 (juejin.cn)](https://juejin.cn/post/6934292467160514567)
 4. [规范你的代码 -Husky - 掘金 (juejin.cn)](https://juejin.cn/post/7023611601013981192)
 
+"postcss": "npx postcss src/styles/globals.css --dir dist/styles ",
+
+- [ ] post css 命令如何使用通配符来转换所有 src 下的 css 文件 ? ? ?
+
 # commitizen-practice-demo
 
 Vue 项目 commitizen + husky + commitlint，git commit 提交信息规范校验 demo，[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) 实践

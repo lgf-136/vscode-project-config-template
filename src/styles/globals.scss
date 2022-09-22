@@ -5,3 +5,11 @@ a {
   border-radius: 5px;
   color: antiquewhite;
 }
+label {
+  user-select: none;
+}
+
+.box {
+  display: flex;
+  background-color: #fff;
+}
