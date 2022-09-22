@@ -8,6 +8,7 @@ yarn add -D husky @commitlint/cli @commitlint/config-conventional commitlint-con
 1. [git 提交规范 commitLint - 掘金 (juejin.cn)](https://juejin.cn/post/6877081615357607943)
 2. [git commit 最佳实践，commitizen + husky + commitlint 规范化校验\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV193411C7XE/?spm_id_from=333.337.search-card.all.click&vd_source=6cecd1f17a6c0ef08a944dd92199a516)
 3. [commit 规范+commitlint+CHANGELOG 自动生成一条龙服务 - 掘金 (juejin.cn)](https://juejin.cn/post/6934292467160514567)
+4. [规范你的代码 -Husky - 掘金 (juejin.cn)](https://juejin.cn/post/7023611601013981192)
 
 # commitizen-practice-demo
 
