@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/lgf-136/vscode-project-config-template#readme",
   "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
     "commitizen": "^4.2.5",
     "commitlint": "^17.1.2",
     "commitlint-config-gitmoji": "^2.2.5",
