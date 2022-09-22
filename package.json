@@ -1,0 +1,24 @@
+{
+  "name": "vscode-project-config-template",
+  "version": "1.0.0",
+  "description": "```",
+  "scripts": {
+    "commit": "cz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgf-136/vscode-project-config-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgf-136/vscode-project-config-template/issues"
+  },
+  "homepage": "https://github.com/lgf-136/vscode-project-config-template#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
